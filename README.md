@@ -1,4 +1,4 @@
-# github.com/mrminglang/go-gRPC
+# github.com/mrminglang/go-grpcs
 go version go1.14
 
 #### 介绍
