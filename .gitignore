@@ -1,0 +1,12 @@
+.DS_Store
+sms
+main
+.exe
+.exe~
+.vscode
+.idea
+*.exe
+.*.swp
+*.pyc
+vendor
+languages/golang/vendor
